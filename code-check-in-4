@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+ <meta charset="utf-8">
+   <title>Code Check in 4</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <!-- Bootstrap -->
+       <link href="css/bootstrap.min.css" rel="stylesheet">
+	   
+   <link rel="stylesheet" href="code-check-in-4.css" type="text/css" media="screen" title="no title" charset="utf-8">
+   
+</head>
+
+
+<body>
+
+<h1>My Favorite Movies</h1>
+<table>
+	<thead>
+		<tr>
+			<th>Movie</th>
+			<th>Distributor</th>
+			<th>Release Date</th>
+			<th>Gross</th>
+			<th>Source</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="http://www.youtube.com/watch?v=8dcYw4OwCA0"> Forrest Gump</a></td>
+			<td>Paramount Pictures</td>
+			<td>July 6, 1994</td>
+			<td>$329,694,499</td>
+			<td><a href="http://www.imdb.com/title/tt0109830/">link</a></td> 
+		</tr>
+		<tr>
+			<td><a href="http://www.youtube.com/watch?v=WcN392H2jx0A"> League of Their Own</a></td>
+			<td>Columbia Pictures Corportion</td>
+			<td>July 1, 1992</td>
+			<td>$107,533,928</td>
+			<td><a href="http://www.imdb.com/title/tt0104694/">link</a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.youtube.com/watch?v=SGWvwjZ0eDc">The Departed</a></td>
+				<td>Warner Brothers</td>
+				<td>October 6, 2006</td>
+				<td>$132,373,442</td>
+				<td><a href="http://www.imdb.com/title/tt0407887/">link</a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.youtube.com/watch?v=PbdM1db3JbY">Harry Potter</a></td>
+				<td>Warner Brothers</td>
+				<td>November 16, 2001</td>
+				<td>$317,575,550</td>
+				<td><a href="http://www.boxofficemojo.com/franchises/chart/?id=harrypotter.htm">link</a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.youtube.com/watch?v=aa0hSPPW1so">Happy Gilmore</a></td>
+				<td>Universal</td>
+				<td>February 16, 1996</td>
+				<td>$38,824,099</td>
+				<td><a href="http://www.boxofficemojo.com/movies/?id=happygilmore.htm">link</a></td>
+			</tr>
+		</tbody>
+	</table>
+	
+    <script src="https://code.jquery.com/jquery.js"></script>
+       <!-- Include all compiled plugins (below), or include individual files as needed -->
+       <script src="js/bootstrap.min.js"></script>
+	
+</body>
+</html>
+		 	 
+					
+				
+					
+					
+					
+					
+				
