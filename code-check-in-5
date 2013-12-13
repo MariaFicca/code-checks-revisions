@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+ <meta charset="utf-8">
+   <title>Code Check in 5</title>
+   
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <!-- Bootstrap -->
+       <link href="css/bootstrap.min.css" rel="stylesheet">
+   
+ <link rel="stylesheet" href="5.css" type="text/css" media="screen" title="no title" charset="utf-8">
+ 
+</head>
+<body>
+
+<h1>The Project Gutenberg EBook of Beowulf</h1> 
+
+<p id="intro">This eBook is for the use of anyone anywhere at no cost and re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at <a href="www.gutenberg.net">www.gutenberg.net</a></p>
+
+<ul>
+<li>Title: Beowulf
+       An Anglo-Saxon Epic Poem, Translated From The Heyne-Socin
+       Text by Lesslie Hall</li>
+
+<li>Author:</li>  
+
+<li>Release Date: July 19, 2005 [EBook #16328]</li>
+
+<li>Language: English</li> 
+</ul>
+
+<p id="start">*** START OF THIS PROJECT GUTENBERG EBOOK BEOWULF ***</p>
+
+
+<p id="producer">Produced by David Starner, Dainis Millers and the Online
+Distributed Proofreading Team at <a href="http://www.pgdp.net">http://www.pgdp.net</a></p>
+
+
+<p id="title"><strong>BEOWULF</strong></p>
+AN ANGLO-SAXON EPIC POEM
+
+<p>_TRANSLATED FROM THE HEYNE-SOCIN TEXT_</p>
+
+<p>BY</p>
+
+<p>JNO: LESSLIE HALL, Ph. D. (J.H.U.)
+Professor of English and History in The College of William and Mary</p>
+
+
+<p>D.C. HEATH & CO., PUBLISHERS
+BOSTON NEW YORK CHICAGO</p>
+
+
+<p>Entered according to Act of Congress, in the year 1892, by
+
+JNO: LESSLIE HALL,
+
+in the Office of the Librarian of Congress, at Washington.</p>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
