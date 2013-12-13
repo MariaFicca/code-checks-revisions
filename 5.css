@@ -1,0 +1,41 @@
+
+body {font-family: Courier, monospace;
+	color: purple;
+	background-color: gray;	
+}
+h1 {
+	background-color:white;
+}
+
+h1:hover{
+	color: green;
+	background-color: black;
+	text-shadow: 2px 2px 2px white;
+}
+
+ul {
+	font-size: 1.5;
+	color: green;
+}
+
+
+li:hover{
+	color: black;
+	text-shadow: 2px 2px 2px white;
+}
+
+a:hover{
+	color: white;
+	text-shadow: 2px 2px 2px purple;
+}
+
+#title{
+	font-size: 200%;
+	color: white;
+	text-shadow: 2px 2px 2px purple;
+}
+
+#title:hover{
+	color: green;
+	text-shadow: 2px 2px 2px white;
+}
